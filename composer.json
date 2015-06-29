@@ -1,13 +1,9 @@
 {
-    "name": "udan11/sql-parser",
+    "name": "dmitry-php/sql-parser",
     "description": "A validating SQL lexer and parser with a focus on MySQL dialect.",
     "license": "GPL-2.0+",
     "keywords": ["sql", "lexer", "parser", "analysis"],
-    "homepage": "https://github.com/udan11/sql-parser",
-    "support": {
-        "issues": "https://github.com/udan11/sql-parser/issues",
-        "source": "https://github.com/udan11/sql-parser"
-    },
+    "homepage": "https://github.com/dmitry-php/sql-parser",
     "authors": [
         {
             "name": "Dan Ungureanu",
